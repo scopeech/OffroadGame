@@ -12,3 +12,11 @@ C:\Users\user\source\repos\Game\Game\obj\Debug\net8.0\refint\Game.dll
 C:\Users\user\source\repos\Game\Game\obj\Debug\net8.0\Game.pdb
 C:\Users\user\source\repos\Game\Game\obj\Debug\net8.0\Game.genruntimeconfig.cache
 C:\Users\user\source\repos\Game\Game\obj\Debug\net8.0\ref\Game.dll
+C:\Users\user\Source\Repos\OffroadGame\obj\Debug\net8.0\Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Source\Repos\OffroadGame\obj\Debug\net8.0\Game.AssemblyInfoInputs.cache
+C:\Users\user\Source\Repos\OffroadGame\obj\Debug\net8.0\Game.AssemblyInfo.cs
+C:\Users\user\Source\Repos\OffroadGame\obj\Debug\net8.0\Game.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\Repos\OffroadGame\obj\Debug\net8.0\Game.sourcelink.json
+C:\Users\user\Source\Repos\OffroadGame\obj\Debug\net8.0\Game.dll
+C:\Users\user\Source\Repos\OffroadGame\obj\Debug\net8.0\refint\Game.dll
+C:\Users\user\Source\Repos\OffroadGame\obj\Debug\net8.0\Game.pdb

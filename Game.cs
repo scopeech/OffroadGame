@@ -13,7 +13,8 @@ namespace OffroadGame
 
             Track track1 = new Track("Пустыня", 5); //Название карты, сложность
             Track track2 = new Track("Горы", 7);
-            Track track3 = new Track("Лес", 9);            Track track4 = new Track("Зимняя трасса", 12)
+            Track track3 = new Track("Лес", 9);
+            Track track4 = new Track("Зимняя трасса", 12);
 
 
 
@@ -69,6 +70,7 @@ namespace OffroadGame
             Console.WriteLine("1 - Пустыня (сложность: легкая)");
             Console.WriteLine("2 - Горы (сложность: нормальная)");
             Console.WriteLine("3 - Лес (сложнсть: безумная)");
+            Console.WriteLine("4 - Зимняя трасса (сложность: самая высокая)");
             string trackChoice;
             trackChoice = Console.ReadLine();
 
@@ -84,6 +86,9 @@ namespace OffroadGame
                     break;
                 case "3":
                     selectedTrack = track3;
+                    break;
+                    case "4":
+                        selectedTrack = track4;
                     break;
                 default:
                     Console.WriteLine("Неверный выбор");
