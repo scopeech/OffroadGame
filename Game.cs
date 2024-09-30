@@ -13,7 +13,7 @@ namespace OffroadGame
 
             Track track1 = new Track("Пустыня", 5); //Название карты, сложность
             Track track2 = new Track("Горы", 7);
-            Track track3 = new Track("Лес", 9);
+            Track track3 = new Track("Лес", 9);            Track track4 = new Track("Зимняя трасса", 12)
 
 
 
