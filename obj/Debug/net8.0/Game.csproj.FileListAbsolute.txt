@@ -20,3 +20,10 @@ C:\Users\user\Source\Repos\OffroadGame\obj\Debug\net8.0\Game.sourcelink.json
 C:\Users\user\Source\Repos\OffroadGame\obj\Debug\net8.0\Game.dll
 C:\Users\user\Source\Repos\OffroadGame\obj\Debug\net8.0\refint\Game.dll
 C:\Users\user\Source\Repos\OffroadGame\obj\Debug\net8.0\Game.pdb
+C:\Users\user\Source\Repos\OffroadGame\bin\Debug\net8.0\Game.exe
+C:\Users\user\source\repos\OffroadGame\bin\Debug\net8.0\Game.deps.json
+C:\Users\user\source\repos\OffroadGame\bin\Debug\net8.0\Game.runtimeconfig.json
+C:\Users\user\Source\Repos\OffroadGame\bin\Debug\net8.0\Game.dll
+C:\Users\user\Source\Repos\OffroadGame\bin\Debug\net8.0\Game.pdb
+C:\Users\user\source\repos\OffroadGame\obj\Debug\net8.0\Game.genruntimeconfig.cache
+C:\Users\user\source\repos\OffroadGame\obj\Debug\net8.0\ref\Game.dll

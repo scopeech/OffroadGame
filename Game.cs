@@ -15,6 +15,7 @@ namespace OffroadGame
             Track track2 = new Track("Горы", 7);
             Track track3 = new Track("Лес", 9);
             Track track4 = new Track("Зимняя трасса", 12);
+            Track track5 = new Track("Вулкан", 15);
 
 
 
@@ -57,6 +58,7 @@ namespace OffroadGame
                     Console.WriteLine("Неверный выбор.");
                     return;
 
+                    
 
             }
             Car[] randcar = { car1, car2, car3, car4 };
@@ -71,6 +73,7 @@ namespace OffroadGame
             Console.WriteLine("2 - Горы (сложность: нормальная)");
             Console.WriteLine("3 - Лес (сложнсть: безумная)");
             Console.WriteLine("4 - Зимняя трасса (сложность: самая высокая)");
+            Console.WriteLine("5 - Вулкан (сложность: невозможно)");
             string trackChoice;
             trackChoice = Console.ReadLine();
 
@@ -89,6 +92,9 @@ namespace OffroadGame
                     break;
                     case "4":
                         selectedTrack = track4;
+                    break;
+                    case "5":
+                    selectedTrack = track5;
                     break;
                 default:
                     Console.WriteLine("Неверный выбор");

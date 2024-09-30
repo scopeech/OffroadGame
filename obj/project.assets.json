@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\source\\repos\\Game\\Game\\Game.csproj",
+      "projectUniqueName": "C:\\Users\\user\\source\\repos\\OffroadGame\\Game.csproj",
       "projectName": "Game",
-      "projectPath": "C:\\Users\\user\\source\\repos\\Game\\Game\\Game.csproj",
+      "projectPath": "C:\\Users\\user\\source\\repos\\OffroadGame\\Game.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\source\\repos\\Game\\Game\\obj\\",
+      "outputPath": "C:\\Users\\user\\source\\repos\\OffroadGame\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
